@@ -1,0 +1,40 @@
+<!--
+  ~ Copyright (C) 2015 Baidu, Inc. All Rights Reserved.
+  -->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+    <ImageView android:id="@+id/traditionView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_launcher"/>
+
+    <ImageView android:id="@+id/objectView"
+               android:layout_below="@+id/traditionView"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:src="@drawable/ic_launcher"/>
+
+    <ImageView android:id="@+id/paramsView"
+               android:layout_below="@+id/objectView"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:src="@drawable/ic_launcher"/>
+
+    <ImageView android:id="@+id/traditionView2"
+               android:layout_below="@+id/paramsView"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:src="@drawable/ic_launcher"/>
+
+    <Button
+            android:id="@+id/button"
+            android:layout_centerVertical="true"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_width="wrap_content"
+            android:text="MOVE"
+            android:layout_height="wrap_content"/>
+
+</RelativeLayout>  

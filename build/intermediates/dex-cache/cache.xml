@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/panhongchao/AndroidStudioProjects/ViewLearn/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="/Users/panhongchao/AndroidStudioProjects/ViewLearn/app/build/intermediates/pre-dexed/debug/classes-3b0a4814b021fe8ec8b0674b2a86f40edacf1ef1.jar" />
+    </item>
+    <item
+        jar="/Users/panhongchao/AndroidStudioProjects/ViewLearn/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/libs/internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="/Users/panhongchao/AndroidStudioProjects/ViewLearn/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.0-5557e6febc936286e6eab49a84195c00cdaf4ba1.jar" />
+    </item>
+    <item
+        jar="/Users/panhongchao/Downloads/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.0/support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="/Users/panhongchao/AndroidStudioProjects/ViewLearn/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.0-6b3aad2efcd09e9cf6a5e1a3a6ac41c23343445e.jar" />
+    </item>
+    <item
+        jar="/Users/panhongchao/AndroidStudioProjects/ViewLearn/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="/Users/panhongchao/AndroidStudioProjects/ViewLearn/app/build/intermediates/pre-dexed/debug/classes-8b776b92b69dca004dc009a9e7327dc44b0ebead.jar" />
+    </item>
+    <item
+        jar="/Users/panhongchao/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/panhongchao/AndroidStudioProjects/ViewLearn/app/build/intermediates/pre-dexed/debug/library-2.4.0-dab0ea8a2ec62bbc614e02acd4ce0f8a982bc85f.jar" />
+    </item>
+
+</items>
