@@ -10,7 +10,7 @@
                  android:icon="@mipmap/ic_launcher"
                  android:theme="@style/AppTheme">
         <activity
-                android:name=".conflict.inner.ConflictInnerActivity"
+                android:name=".propertymove.PropertyActivity"
                 android:label="@string/app_name" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

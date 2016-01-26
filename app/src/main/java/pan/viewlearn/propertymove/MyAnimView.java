@@ -86,6 +86,7 @@ public class MyAnimView extends View {
                 invalidate();
             }
         });
+        anim.setInterpolator(new DecelerateAccelerateInterpolator());
         ObjectAnimator anim2 = ObjectAnimator.ofObject(this, "color", new ColorEvaluator(),
                 "#0000FF", "#FF0000");
         AnimatorSet animSet = new AnimatorSet();
